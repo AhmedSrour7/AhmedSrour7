@@ -29,6 +29,16 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) 
 
+### 🛠️ Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-217346?style=for-the-badge&logo=Apache&logoColor=white" />
+</p>
+
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolverinee7&show_icons=true&theme=dark)  
 
