@@ -3,9 +3,9 @@
 ---
 
 ## 🚀 About Me:
-- 🎓 **Recent Computer Engineering Graduate** from AIET (GPA: 3.1).  
+- 🎓 **Recent Computer Engineering Graduate**.  
 - 🔬 **Graduation Project:** Healthcare-focused, received **A+**.  
-- 💡 Passionate about **Big Data, Data Engineering, and Software Development**.  
+- 💡 Passionate about **Big Data, Data Engineering, Data Science and Software Development**.  
 - 📱 Experience in **Flutter Mobile Development**.  
 - 🌱 Currently learning **Data Engineering at ITI**.  
 
