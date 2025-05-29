@@ -34,13 +34,13 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wolverinee7&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wolverinee7&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedSrour7&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSrour7&theme=radical" />
 </p>
 
 ---
 
 ## 📈 Profile Visitors:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wolverinee7&label=Profile%20Views&color=blue&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedSrour7&label=Profile%20Views&color=blue&style=plastic" />
 </p>
